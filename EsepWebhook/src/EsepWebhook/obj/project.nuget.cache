@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHNYHa8bbNGRSf1pZohaHOZwsRvHLR+ywI/mVzR34q2z81EhDTPdxDavUXCOuhefSNWntLxnPJpPepzuOtS59w==",
+  "success": true,
+  "projectFilePath": "/Users/waderichman/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/waderichman/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/waderichman/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/waderichman/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/waderichman/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/waderichman/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.15/microsoft.netcore.app.crossgen2.osx-x64.6.0.15.nupkg.sha512",
+    "/Users/waderichman/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
